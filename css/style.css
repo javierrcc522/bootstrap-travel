@@ -1,4 +1,4 @@
-h1{
+/*h1{
   font-family: helvetica;
 }
 h2{
@@ -9,4 +9,12 @@ ul{
 }
 body{
   background-color: lightblue;
+}
+*/
+.jumbotron{
+  text-align: center;
+
+}
+img{
+  width: 70%;
 }
